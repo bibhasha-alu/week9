@@ -1,0 +1,90 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+
+    <cd>
+        <title>faculty</title>
+        <name>Bob Dylan</name>
+        <country>USA</country>
+        <University>Columbia UNI</University>
+        <salary>10000</salary>
+        <year>19</year>
+        <student>student</student>
+        <studentn>meena</studentn>
+        <course>MBA</course>
+    </cd>
+
+    <cd>
+        <title>faculty</title>
+        <name>Bonnie Tyler</name>
+        <country>USA</country>
+        <University>Columbia UNI</University>
+        <salary>12000</salary>
+        <year>22</year>
+        <student>student</student>
+        <studentn>teena</studentn>
+        <course>MBA</course>
+    </cd>
+
+    <cd>
+        <title>faculty</title>
+        <name>Dolly Parton</name>
+        <country>USA</country>
+        <University>GITAM</University>
+        <salary>50000</salary>
+        <year>45</year>
+        <student>student</student>
+        <studentn>peena</studentn>
+        <course>Btech</course>
+    </cd>
+
+    <cd>
+        <title>faculty</title>
+        <name>Bob Don</name>
+        <country>USA</country>
+        <company>GIAM</company>
+        <University>Columbia</University>
+        <salary>10000</salary>
+        <year>25</year>
+        <student>student</student>
+        <studentn>reena</studentn>
+        <course>Btech</course>
+    </cd>
+
+    <cd>
+        <title>faculty</title>
+        <name>Gary Moore</name>
+        <country>USA</country>
+        <University>Columbia</University>
+        <salary>10000</salary>
+        <year>19</year>
+        <student>student</student>
+        <studentn>ceena</studentn>
+        <course>MBA</course>
+    </cd>
+
+    <cd>
+        <title>faculty</title>
+        <name>Eros Ramazzotti</name>
+        <country>USA</country>
+        <University>GITAM</University>
+        <salary>13000</salary>
+        <year>19</year>
+        <student>student</student>
+        <studentn>yeena</studentn>
+        <course>Btech</course>
+    </cd>
+
+    <cd>
+        <title>faculty</title>
+        <name>Bee Gees</name>
+        <country>USA</country>
+        <University>GITAM</University>
+        <salary>11000</salary>
+        <year>23</year>
+        <student>student</student>
+        <studentn>leena</studentn>
+        <course>MBA</course>
+    </cd>
+
+</catalog>
