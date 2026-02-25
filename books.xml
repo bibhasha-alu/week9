@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE books SYSTEM "books.dtd">
+
+<books xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="books.xsd">
+
+    <book>
+        <title>Artificial Intelligence</title>
+        <author>Stuart Russell</author>
+        <isbn>9780136042594</isbn>
+        <publisher>Pearson</publisher>
+        <edition>3</edition>
+        <price>850.00</price>
+    </book>
+
+    <book>
+        <title>Data Structures in C</title>
+        <author>Mark Allen Weiss</author>
+        <isbn>9780201100884</isbn>
+        <publisher>Pearson</publisher>
+        <edition>2</edition>
+        <price>650.00</price>
+    </book>
+
+</books>
